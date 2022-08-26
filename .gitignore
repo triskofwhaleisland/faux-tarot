@@ -1,1 +1,8 @@
 /.env
+# The following are necessary for my PyCharm install to not push its configuration to GitHub.
+/.idea/.gitignore
+/.idea/faux-tarot.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
